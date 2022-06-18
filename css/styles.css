@@ -582,7 +582,8 @@ h3 {
   color: var(--secondary-text-color);
 }
 
-.social-links-link:hover {
+.social-links-link:hover,
+.social-links-link:focus {
   background-color: var(--accent-color);
 }
 
